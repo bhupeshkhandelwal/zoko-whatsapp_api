@@ -1,0 +1,29 @@
+{
+  "name": "zoko_whatsapp_api_impliment",
+  "version": "1.0.0",
+  "description": "Zoko Whatsapp Api Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhupeshkhandelwal/zoko-whatsapp_api.git"
+  },
+  "keywords": [
+    "Zoko",
+    "Whatsapp_api",
+    "zoko_whatsapp_api"
+  ],
+  "author": "Bhupesh Khandelwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhupeshkhandelwal/zoko-whatsapp_api/issues"
+  },
+  "homepage": "https://github.com/bhupeshkhandelwal/zoko-whatsapp_api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
